@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/Field-Computer%20Science-3776AB?style=for-the-badge&logo=graduation-cap&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/University-AGH%20Krak%C3%B3w-darkgreen?style=for-the-badge" height="25"/>
 
-🧠 23, studying **Computer Science** at **AGH University of Kraków**, writing my **bachelor thesis**, coding side projects I wish existed already  
+🧠 22, studying **Computer Science** at **AGH University of Kraków**, writing my **bachelor thesis**, coding side projects I wish existed already  
 ⚙️ I like systems that **make sense** and tech that **respects users**
 
 ---
