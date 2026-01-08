@@ -2,7 +2,7 @@
 
 ## 👋 Brief & Quick About Me
 
-<img src="https://img.shields.io/badge/AGE-22-blueviolet?style=for-the-badge" height="25"/>
+<img src="https://img.shields.io/badge/AGE-23-blueviolet?style=for-the-badge" height="25"/>
 <img src="https://img.shields.io/badge/Field-Computer%20Science-3776AB?style=for-the-badge&logo=graduation-cap&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/University-AGH%20Krak%C3%B3w-darkgreen?style=for-the-badge" height="25"/>
 
